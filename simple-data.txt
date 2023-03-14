@@ -1,0 +1,94 @@
+Polytetrafluoroethylene (PTFE)	Snow	0.02
+Ice	Steel	0.03
+Polytetrafluoroethylene (PTFE) (Teflon)	Polytetrafluoroethylene (PTFE)	0.04
+Ice	Wood	0.05
+Diamond	Diamond	0.1
+Graphite	Graphite	0.1
+Graphite	Steel	0.1
+Carbon	Steel	0.14
+Wood - waxed	Wet snow	0.14
+Tarred fiber	Cast Iron	0.15
+Carbon (hard)	Carbon	0.16
+Tarred fiber	Aluminum	0.18
+Brake material2)	Cast iron (wet)	0.2
+Paper	Cast Iron	0.2
+Polyethylene	Polytehylene	0.2
+Polyethylene	Steel	0.2
+Sapphire	Sapphire	0.2
+Tire, wet	Road, wet	0.2
+Wax, ski	Snow	0.2
+Wood	Wet Metals	0.2
+Wood	Wet Wood	0.2
+Steel	Graphite	0.21
+Copper-Lead alloy	Steel	0.22
+Straw Fiber	Cast Iron	0.26
+Straw Fiber	Aluminum	0.27
+Cotton	Cotton	0.3
+Leather fiber	Aluminum	0.3
+Nylon	Snow	0.3
+Leather fiber	Cast iron	0.31
+Aluminum	Snow	0.35
+Car tire	Grass	0.35
+Phosphor-bronze	Steel	0.35
+Tungsten Carbide	Copper	0.35
+Brake material2)	Cast iron	0.4
+Cast iron	Mild Steel	0.4
+Leather	Metal	0.4
+Nylon	Steel	0.4
+Cadmium	Chromium	0.41
+Chromium	Chromium	0.41
+Aluminum-bronze	Steel	0.45
+Cadmium	Cadmium	0.5
+Hemp rope	Timber	0.5
+Polystyrene	Polystyrene	0.5
+Brass	Steel	0.51
+Copper	Mild Steel	0.53
+Oak	Oak (cross grain)	0.54
+Horseshoe	Concrete	0.58
+Brick	Wood	0.6
+Leather	Cast Iron	0.6
+Leather	Clean Metal	0.6
+Magnesium	Magnesium	0.6
+Wood	Brick	0.6
+Zinc	Zinc	0.6
+Aluminum	Mild Steel	0.61
+Leather	Oak	0.61
+Oak	Oak (parallel grain)	0.62
+Wood	Concrete	0.62
+Copper	Glass	0.68
+Horseshoe	Rubber	0.68
+Car tire	Asphalt	0.72
+Glass	Nickel	0.78
+Plexiglas	Plexiglas	0.8
+Tungsten Carbide	Iron	0.8
+Zinc	Cast Iron	0.85
+Rubber	Dry Asphalt	0.9
+Iron	Iron	1
+Mica	Mica	1
+Tire, dry	Road, dry	1
+Copper	Cast Iron	1.05
+Cast Iron	Cast Iron	1.1
+Rubber	Rubber	1.16
+Platinum	Platinum	1.2
+Silver	Silver	1.4
+Silver	Silver	1.4
+Copper	Copper	1.6
+Polytetrafluoroethylene (PTFE)	Steel	0.125
+Diamond	Metals	0.125
+Nylon	Nylon	0.2
+Tungsten Carbide	Tungsten Carbide	0.225
+Wood	Stone	0.3
+Wood	Clean Metal	0.4
+Wood	Clean Wood	0.375
+Polystyrene	Steel	0.325
+Leather	Wood	0.35
+Plexiglas	Steel	0.45
+Tungsten Carbide	Steel	0.5
+Glass	Metal	0.6
+Rubber	Cardboard	0.65
+Steel	Steel	0.65
+Masonry	Brick	0.65
+Nickel	Nickel	0.9
+Skin	Metals	0.9
+Glass	Glass	0.95
+Aluminum	Aluminum	1.2
