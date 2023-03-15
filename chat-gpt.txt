@@ -1,0 +1,67 @@
+Aluminum	Brass	0.45
+Aluminum	Concrete	0.3
+Aluminum	Rubber	0.4
+Aluminum	Zinc	0.55
+Aluminum	Nylon	0.28
+Aluminum	Platinum	0.8
+Aluminum	Sapphire	0.35
+Aluminum	Tungsten Carbide	0.48
+Aluminum	Wood	0.32
+Aluminum-bronze	Glass	0.5
+Aluminum-bronze	Rubber	0.55
+Aluminum-bronze	Wood	0.4
+Brass	Concrete	0.4
+Brass	Glass	0.55
+Brass	Rubber	0.7
+Brass	Wood	0.4
+Brass	Zinc	0.45
+Brass	Nylon	0.3
+Brass	Platinum	0.7
+Brass	Sapphire	0.35
+Brass	Tungsten Carbide	0.42
+Brick	Rubber	0.8
+Brick	Zinc	0.6
+Brick	Nylon	0.25
+Brick	Platinum	0.7
+Brick	Sapphire	0.25
+Brick	Tungsten Carbide	0.4
+Cadmium	Concrete	0.4
+Cadmium	Rubber	0.5
+Cadmium	Wood	0.35
+Cadmium	Zinc	0.5
+Cadmium	Nylon	0.25
+Cadmium	Platinum	0.7
+Cadmium	Sapphire	0.3
+Cadmium	Tungsten Carbide	0.4
+Car tire	Brick	0.55
+Car tire	Concrete	0.85
+Car tire	Zinc	0.7
+Car tire	Nylon	0.3
+Car tire	Platinum	0.6
+Car tire	Sapphire	0.25
+Car tire	Tungsten Carbide	0.45
+Carbon	Concrete	0.35
+Carbon	Rubber	0.4
+Carbon	Wood	0.3
+Carbon	Zinc	0.4
+Carbon	Nylon	0.2
+Carbon	Platinum	0.5
+Carbon	Sapphire	0.25
+Carbon	Tungsten Carbide	0.38
+Cast Iron	Concrete	0.7
+Cast Iron	Glass	0.5
+Cast Iron	Rubber	0.8
+Cast Iron	Zinc	0.55
+Cast Iron	Nylon	0.3
+Cast Iron	Platinum	0.6
+Cast Iron	Sapphire	0.3
+Chromium	Concrete	0.4
+Chromium	Rubber	0.5
+Chromium	Wood	0.35
+Chromium	Zinc	0.4
+Chromium	Nylon	0.2
+Chromium	Platinum	0.7
+Chromium	Sapphire	0.3
+Chromium	Tungsten Carbide	0.4
+Copper	Concrete	0.6
+Copper	Rubber	0.0
